@@ -18,9 +18,9 @@ const silkscreen = Silkscreen({
 });
 
 export const metadata: Metadata = {
-  title: 'Adel Guitoun',
-  description: `Hi 👋, I'm Adel Guitoun. I'm a passionate software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
-  creator: 'Adel Guitoun',
+  title: '',
+  description: `I'm a software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
+  creator: '',
   applicationName: 'My website',
   keywords: [
     'Adel Guitoun',
@@ -49,8 +49,8 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     url: 'https://www.adelguitoun.com',
-    title: 'Adel Guitoun - Software Engineer',
-    description: `Hi 👋, I'm Adel Guitoun. I'm a passionate software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
+    title: 'Software Engineer',
+    description: `I'm a software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
     images: [
       {
         url: '/opengraph-image.jpg',
@@ -61,8 +61,8 @@ export const metadata: Metadata = {
     ],
   },
   twitter: {
-    title: 'Adel Guitoun - Software Engineer',
-    description: `Hi 👋, I'm Adel Guitoun. I'm a passionate software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
+    title: 'Software Engineer',
+    description: `I'm a software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
     card: 'summary_large_image',
     site: '@AdelGuitoun',
     images: '/opengraph-image.jpg',
