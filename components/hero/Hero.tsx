@@ -8,9 +8,9 @@ const Hero = () => {
     <section className="relative px-6 pb-44" style={{ contain: 'layout' }}>
       <div className="pt-48">
         <h1 className="h1-bold flex flex-col items-start md:items-center">
-          <span>Crafting</span>
-          <span>memorable user &</span>
-          <span>developer experiences</span>
+          <span></span>
+          <span></span>
+          <span></span>
         </h1>
       </div>
 
@@ -31,7 +31,7 @@ const Hero = () => {
                     `inline animate-gradient bg-gradient-to-r from-[#ffaa40] via-[#9c40ff] to-[#ffaa40] bg-[length:var(--bg-size)_100%] bg-clip-text text-transparent`,
                   )}
                 >
-                  Start a collaboration
+                  
                 </span>
               </AnimatedGradientText>
             </Link>
@@ -40,7 +40,7 @@ const Hero = () => {
 
         <div className="flex flex-wrap gap-2 md:flex-col">
           <p className="font-Silkscreen font-normal uppercase text-gray-400">
-            Building...
+            
           </p>
           <p className="w-fit rounded-md bg-celtic px-2 font-Silkscreen text-[18px] font-normal uppercase">
             <span className="text-oceangreen">Well designed</span>
