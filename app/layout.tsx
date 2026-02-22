@@ -83,7 +83,7 @@ export default function RootLayout({
       <body className={`${inter.variable} ${silkscreen.variable} relative`}>
        
         <main>{children}</main>
-        <Footer />
+       
         <div className="main-mask pointer-events-none absolute inset-0 -z-50" />
       </body>
     </html>
