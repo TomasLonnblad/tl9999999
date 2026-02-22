@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="mt-12 flex flex-col-reverse gap-8 md:flex-row md:justify-center md:gap-20 lg:gap-32">
         <div className="flex w-fit flex-col items-start gap-4">
           <p className="font-Silkscreen font-normal uppercase text-gray-400 md:mt-8 md:text-2xl">
-            adel.g · software engineer
+            Tomas Lönnblad · software engineer
           </p>
           <div>
             <Link
