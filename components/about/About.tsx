@@ -10,7 +10,7 @@ const About = () => {
           <h2 className="h2-bold">About me</h2>
           <p className="regular-paragraph mx-auto max-w-[835px]">
             Hi 👋, I&apos;m{' '}
-            <span className="text-code text-yellow-600">Adel Guitoun</span>, a
+            <span className="text-code text-yellow-600"></span>, a
             passionate software engineer with a knack for creating scalable,
             high-performance applications and reusable systems. With a strong
             foundation in <span className="text-green-700">frontend</span> and
