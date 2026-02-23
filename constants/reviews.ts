@@ -30,7 +30,7 @@ export const reviews = [
   {
     name: 'Daron (Kumi) Wiafe',
     username: '@daronkwiafe',
-    body: `I met Tomas as a partner during one of my weeks at Microverse and he was really polite and welcoming despite never having met me before, without even asking he took a look some of my code and tried to help me with bugs. Adel is a great guy, very polite and always available to help, learn and become better, he gives guidance and praise when needed and brings warmth with him wherever he goes. I'm glad I met him.`,
+    body: `I met Tomas as a partner during one of my weeks at Microverse and he was really polite and welcoming despite never having met me before, without even asking he took a look some of my code and tried to help me with bugs. Tomas is a great guy, very polite and always available to help, learn and become better, he gives guidance and praise when needed and brings warmth with him wherever he goes. I'm glad I met him.`,
     img: 'https://media.licdn.com/dms/image/v2/D4D03AQEiNRx1qxKgEQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1670056260745?e=1739404800&v=beta&t=iIW-NUZze1q6-ydjptseu0Yn2GFa8mhRiViEBFASSa8',
     bgGradientColor: '#1E5D92',
   },
