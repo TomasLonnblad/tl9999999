@@ -7,17 +7,10 @@ const About = () => {
     <section className="relative flex items-center justify-center px-6 py-24">
       <div className="z-10">
         <div className="space-y-8 md:text-center">
-          <h2 className="h2-bold">About me</h2>
+          <h2 className="h2-bold"></h2>
           <p className="regular-paragraph mx-auto max-w-[835px]">
-            Hi 👋, I&apos;m{' '}
-            <span className="text-code text-yellow-600"></span>, a
-            passionate software engineer with a knack for creating scalable,
-            high-performance applications and reusable systems. With a strong
-            foundation in <span className="text-green-700">frontend</span> and
-            <span className="text-blue-600"> backend technologies</span>, I
-            specialize in crafting solutions that are as impactful for{' '}
-            <span className="text-orange-500">users</span> as they are efficient
-            for <span className="text-purple-600">developers.</span>
+             I&apos;m{' '}
+   
           </p>
         </div>
 
