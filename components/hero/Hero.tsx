@@ -21,7 +21,7 @@ const Hero = () => {
           </p>
           <div>
             <Link
-              href="https://www.linkedin.com/in/adelguitoun/"
+              href="https://tomaslonnblad.github.io/"
               target="_blank"
             >
               <AnimatedGradientText className="rounded-full px-5 py-2 text-lg hover:cursor-pointer">
