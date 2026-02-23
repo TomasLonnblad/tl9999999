@@ -25,7 +25,7 @@ const Hero = () => {
               target="_blank"
             >
               <AnimatedGradientText className="rounded-full px-5 py-2 text-lg hover:cursor-pointer">
-               Welcome<hr className="mx-2 h-4 w-px shrink-0 bg-gray-400" />{''}
+               Welcome<hr className="mx-2 h-4 w-px shrink-0 bg-gray-400" />{'🤝'}
                 <span
                   className={cn(
                     `inline animate-gradient bg-gradient-to-r from-[#ffaa40] via-[#9c40ff] to-[#ffaa40] bg-[length:var(--bg-size)_100%] bg-clip-text text-transparent`,
