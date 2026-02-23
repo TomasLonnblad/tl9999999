@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://my-website-adels-projects-d623dcad.vercel.app/)
+- [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,9 +116,9 @@ To run the project, execute the following command:
 
 👤 **Adel Guitoun**
 
-- GitHub: [@adel-gu](https://github.com/adel-gu)
-- Twitter: [@GuitounAdel](https://x.com/GuitounAdel)
-- LinkedIn: [adelguitoun](https://www.linkedin.com/in/adelguitoun/)
+- GitHub: [@adel-gu](https://github.com)
+- Twitter: [@GuitounAdel](https://x.com)
+- LinkedIn: [adelguitoun](https://www.linkedin.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
