@@ -19,7 +19,7 @@ const silkscreen = Silkscreen({
 
 export const metadata: Metadata = {
   title: '',
-  description: `I'm a software engineer with a knack for creating scalable, high-performance applications and reusable systems. With a strong foundation in front-end and back-end technologies, I specialize in crafting solutions that are as impactful for users as they are efficient for developers.`,
+  description: ``,
   creator: '',
   applicationName: 'My website',
   keywords: [
