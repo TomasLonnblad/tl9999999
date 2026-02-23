@@ -23,9 +23,7 @@ export const metadata: Metadata = {
   creator: '',
   applicationName: 'My website',
   keywords: [
-    'Adel Guitoun',
-    'Adel',
-    'Guitoun',
+
     'Portfolio',
     'Next.js',
     'Software engineer',
