@@ -9,7 +9,7 @@ const About = () => {
         <div className="space-y-8 md:text-center">
           <h2 className="h2-bold"></h2>
           <p className="regular-paragraph mx-auto max-w-[835px]">
-             I&apos;m{' '}
+             {' '}
    
           </p>
         </div>
